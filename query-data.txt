@@ -1,0 +1,12 @@
+    1  sudo nano /home/duy/Documents/Task15-postgresql/fetchone.py
+    2  python3 fetchone.py
+    3  sudo nano /home/duy/Documents/Task15-postgresql/fetchall.py
+    4  python3 fetchall.py
+    5  sudo nano /home/duy/Documents/Task15-postgresql/fetchmany.py
+    6  python3 fetchmany.py
+    7  sudo nano /home/duy/Documents/Task15-postgresql/fetchmany.py
+    8  python3 fetchmany.py
+    9  psql -i -u duy'
+   10  psql -i -u duy
+   11  psql -U postgres
+   12  history > query-data.txt
