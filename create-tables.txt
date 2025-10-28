@@ -1,0 +1,13 @@
+    1  clear
+    2  python3 main.py
+    3  sudo nano /home/duy/Documents/Task15-postgresql/create_tables.py
+    4  python3 create_tables.py
+    5  sudo nano /home/duy/Documents/Task15-postgresql/create_tables.py
+    6  psql -U duy -d suppliers
+    7  psql -i -u duy
+    8  sudo nano /home/duy/Documents/Task15-postgresql/create_tables.py
+    9  sudo nano /home/duy/Documents/Task15-postgresql/database.ini
+   10  python3 create_tables.py
+   11  sudo nano /etc/postgresql/14/main/pg_hba.conf
+   12  psql -U postgres
+   13  history > create-tables.txt
