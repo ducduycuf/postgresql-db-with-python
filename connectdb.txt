@@ -1,0 +1,137 @@
+  902  which postgress
+  903  which postgres
+  904  sudo systemctl status postgresql
+  905  pg_lsclusters
+  906  psql -U postgres
+  907  sudo pg_ctlcluster 14 main start
+  908  pg_lsclusters
+  909  psql -U postgres
+  910  sudo -i -u postgres
+  911  source venv/bin/activate
+  912  cd Task15-postgresql
+  913  cd Task15-postgresql/
+  914  cd Documents/
+  915  ls
+  916  cd Task15-postgresql/
+  917  source venv/bin/activate
+  918  psql -U postgres
+  919  sudo -i -u postgres
+  920  mkdir suppliers
+  921  python -m venv venv
+  922  python3 -m venv venv
+  923  venv/scripts/activate
+  924  pwd
+  925  ls
+  926  source venv/bin/activate
+  927  venv/scripts/activate
+  928  pip install psycopg2
+  929  pip install psycopg2-binary
+  930  deactivate
+  931  sudo apt update
+  932  sudo apt install libpq-dev python3-dev
+  933  source venv/bin/activate
+  934  pip install psycopg2
+  935  pip freeze > requirements.txt
+  936  psql -U postgres
+  937  psql -U duy
+  938  sudo systemctl stop postgresql
+  939  sudo postgres --single -D /var/lib/postgresql/14/main/
+  940  which postgres
+  941  sudo find / -name postgres
+  942  sudo -i -u postgres
+  943  deactivate
+  944  source venv/bin/activate
+  945  psql -U postgres
+  946  source /home/duy/Documents/Task15-postgresql/venv/bin/activate
+  947  source /home/duy/Documents/Task15-postgresql/venv/bin/activate
+  948  psql -U postgres
+  949  [200~sudo systemctl status postgresql
+  950  sudo systemctl status postgresql
+  951  sudo systemctl start postgresql@15-main
+  952  sudo systemctl start postgresql@14-main
+  953  sudo systemctl status postgresql
+  954  pg_lsclusters
+  955  sudo pg_ctlcluster 14 main start
+  956  pg_lsclusters
+  957  psql -U postgres
+  958  sudo -i -u postgres
+  959  sudo nano /etc/postgresql/14/main/pg_hba.conf
+  960  sudo systemctl restart postgresql
+  961  sudo -i -u postgres
+  962  sudo nano /etc/postgresql/14/main/pg_hba.conf
+  963  sudo -i -u postgres
+  964  sudo nano /etc/postgresql/14/main/pg_hba.conf
+  965  sudo systemctl restart postgresql
+  966  sudo -i -u postgres
+  967  sudo nano /etc/postgresql/14/main/pg_hba.conf
+  968  sudo systemctl restart postgresql
+  969  psql -U postgres
+  970  sudo -i -u postgres
+  971  sudo nano /etc/postgresql/14/main/pg_hba.conf
+  972  sudo -i -u postgres
+  973  sudo systemctl restart postgresql
+  974  sudo -i -u postgres
+  975  sudo nano /etc/postgresql/14/main/pg_hba.conf
+  976  sudo systemctl restart postgresql
+  977  psql -U postgres
+  978  sudo nano /etc/postgresql/14/main/pg_hba.conf
+  979  sudo systemctl restart postgresql
+  980  psql -U postgres
+  981  sudo nano /etc/postgresql/14/main/pg_hba.conf
+  982  sudo systemctl restart postgresql
+  983  psql -U postgres
+  984  sudo nano /home/duy/Documents/Task15-postgresql/database.ini
+  985  sudo nano /home/duy/Documents/Task15-postgresql/config.py
+  986  sudo nano /home/duy/Documents/Task15-postgresql/.gitignore
+  987  sudo nano /home/duy/Documents/Task15-postgresql/connect.py
+  988  sudo nano /home/duy/Documents/Task15-postgresql/main.py
+  989  python3 connect.py
+  990  sudo -u postgres psql
+  991  sudo systemctl status postgresql
+  992  sudo -u postgres psql -c "\l"
+  993  python3 connect.py
+  994  sudo nano /etc/postgresql/14/main/pg_hba.conf
+  995  sudo systemctl restart postgresql
+  996  psql -U duy -d suppliers -h localhost
+  997  sudo systemctl stop postgresql
+  998  sudo apt-get --purge remove postgresql postgresql-* -y
+  999  sudo rm -rf /var/lib/postgresql/
+ 1000  sudo rm -rf /etc/postgresql/
+ 1001  sudo rm -rf /etc/postgresql-common/
+ 1002  sudo rm -rf /var/log/postgresql/
+ 1003  sudo deluser postgres
+ 1004  sudo delgroup postgres
+ 1005  sudo apt-get update
+ 1006  sudo apt-get install postgresql postgresql-contrib -y
+ 1007  sudo -i -u postgres
+ 1008  psql -U postgres
+ 1009  sudo -i -u postgres
+ 1010  sudo cat /etc/postgresql/14/main/pg_hba.conf | grep "local.*postgres"
+ 1011  sudo nano /home/duy/Documents/Task15-postgresql/database.ini
+ 1012  sudo nano /etc/postgresql/14/main/pg_hba.conf
+ 1013  sudo systemctl restart postgresql
+ 1014  sudo -i -u postgres
+ 1015  sudo nano /etc/postgresql/14/main/pg_hba.conf
+ 1016  sudo -i -u postgres
+ 1017  sudo systemctl restart postgresql
+ 1018  sudo -i -u postgres
+ 1019  psql -U postgres
+ 1020  sudo -i -u postgres
+ 1021  psql -U postgres
+ 1022  sudo nano /etc/postgresql/14/main/pg_hba.conf
+ 1023  sudo systemctl restart postgresql
+ 1024  psql -U postgres
+ 1025  python3 connect.py
+ 1026  conn = psycopg2.connect("dbname=suppliers user=duy password=123456")
+ 1027  sudo nano /home/duy/Documents/Task15-postgresql/main.py
+ 1028  python3 main.py
+ 1029  sudo -i -u postgres
+ 1030  psql -U duy -d suppliers
+ 1031  python3 main.py
+ 1032  source /home/duy/Documents/Task15-postgresql/venv/bin/activate
+ 1033  sudo nano /home/duy/Documents/Task15-postgresql/database.ini
+ 1034  sudo nano /home/duy/Documents/Task15-postgresql/config.py
+ 1035  sudo nano /etc/postgresql/14/main/pg_hba.conf
+ 1036  command > output.txt
+ 1037  history
+ 1038  history > connectdb.txt
