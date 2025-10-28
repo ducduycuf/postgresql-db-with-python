@@ -1,0 +1,5 @@
+    1  clear
+    2  sudo nano /home/duy/Documents/Task15-postgresql/delete_part.py
+    3  python3 delete_part.py
+    4  psql -U duy -d suppliers
+    5  history > delete-parts.txt
