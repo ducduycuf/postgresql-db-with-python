@@ -1,0 +1,24 @@
+    1  clear
+    2  sudo nano /home/duy/Documents/Task15-postgresql/write_blob.py
+    3  sudo nano /home/duy/Documents/Task15-postgresql/read_blob.py
+    4  mkdir -p images/output
+    5  python3 blob.py
+    6  python3 read blob.py
+    7  python3 read_blob.py
+    8  INSERT INTO parts(part_name) VALUES('Test Part') RETURNING part_id;
+    9  psql -U duy -d suppliers
+   10  ls *.png *.jpg 2>/dev/null
+   11  sudo nano /home/duy/Documents/Task15-postgresql/write_blob.py
+   12  rm nano /home/duy/Documents/Task15-postgresql/read_blob.py
+   13  sudo nano /home/duy/Documents/Task15-postgresql/read_blob.py
+   14  python3 read_blob.py
+   15  sudo nano /home/duy/Documents/Task15-postgresql/read_blob.py
+   16  python3 read_blob.py
+   17  psql -U duy -d suppliers -c "SELECT * FROM parts;"
+   18  psql -U duy -d suppliers -c "SELECT * FROM part_drawings;"
+   19  python3 write_blob.py
+   20  sudo nano /home/duy/Documents/Task15-postgresql/write_blob.py
+   21* python3 write_blob.p
+   22  python3 read_blob.py
+   23  ls -lh images/output/
+   24  history > blob-data.txt
