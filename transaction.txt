@@ -1,0 +1,9 @@
+    1  clear
+    2  sudo nano /home/duy/Documents/Task15-postgresql/transaction.py
+    3  python3 transaction.py
+    4  sudo nano /home/duy/Documents/Task15-postgresql/transaction.py
+    5  python3 transaction.py
+    6  psql -U postgres -d suppliers
+    7  sudo nano /home/duy/Documents/Task15-postgresql/transaction.py
+    8  python3 transaction.py
+    9  history > transaction.txt
