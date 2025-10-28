@@ -1,0 +1,6 @@
+    1  clear
+    2  psql -U postgres -d suppliers
+    3  sudo nano /home/duy/Documents/Task15-postgresql/call_stored_procedure.py
+    4  python3 call_stored_procedure.py
+    5  psql -U postgres -d suppliers
+    6  history > call-preprocedures.txt
