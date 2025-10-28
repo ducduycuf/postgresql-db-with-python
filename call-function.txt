@@ -1,0 +1,10 @@
+    1  clear
+    2  psql -U postgres -d suppliers
+    3  sudo nano /home/duy/Documents/Task15-postgresql/call_function.py
+    4  python3 call_function
+    5  python3 call_function.py
+    6  sudo nano /home/duy/Documents/Task15-postgresql/call_function.py
+    7  psql -U postgres -d suppliers
+    8  sudo nano /home/duy/Documents/Task15-postgresql/call_function.py
+    9  python3 call_function.py
+   10  history > call-function.txt
