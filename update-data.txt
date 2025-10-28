@@ -1,0 +1,7 @@
+    1  sudo nano /home/duy/Documents/Task15-postgresql/update.py
+    2  python3 update.py
+    3  psql -U postgres
+    4  sudo nano /home/duy/Documents/Task15-postgresql/update.py
+    5  python3 update.py
+    6  psql -U postgres
+    7  history > update-data.txt
