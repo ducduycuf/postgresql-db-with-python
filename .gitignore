@@ -1,1 +1,9 @@
 database.ini
+venv/
+__pycache__/
+*.pyc
+database.ini
+images/output/
+*.jpeg
+*.jpg
+*.png
