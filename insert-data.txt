@@ -1,0 +1,21 @@
+    1  clear
+    2  sudo nano /home/duy/Documents/Task15-postgresql/insert.py
+    3  sudo nano /home/duy/Documents/Task15-postgresql/insert_many.py
+    4  sudo nano /home/duy/Documents/Task15-postgresql/insert_main.py
+    5  python3 insert.py
+    6  psql -U postgres
+    7  sudo nano /home/duy/Documents/Task15-postgresql/insert_main.py
+    8  sudo nano /home/duy/Documents/Task15-postgresql/insert_many.py
+    9  sudo nano /home/duy/Documents/Task15-postgresql/insert.py
+   10  python3 insert_main.py
+   11  psql -U postgres
+   12  python3 insert_main.py
+   13  sudo nano /home/duy/Documents/Task15-postgresql/insert_many.py
+   14  sudo nano /home/duy/Documents/Task15-postgresql/insert_main.py
+   15  sudo nano /home/duy/Documents/Task15-postgresql/database.ini
+   16  rm /home/duy/Documents/Task15-postgresql/insert_many.py /home/duy/Documents/Task15-postgresql/insert_main.py
+   17  rm /home/duy/Documents/Task15-postgresql/insert_many.py
+   18  sudo nano /home/duy/Documents/Task15-postgresql/insert.py
+   19  python3 insert.py
+   20  psql -U postgres
+   21  history > insert-data.txt
